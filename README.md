@@ -1,16 +1,20 @@
 ## Hi, I'm Tushar
 
-Analyst based in New Delhi, working across **business analysis, data analysis and BFSI (banking and lending)**. I spent two years as an Associate Analyst at Post Office Ltd. in London, where I mapped processes, tracked SLAs and KPIs, and reported performance to management.
+I like the point where numbers and process meet: working out why something keeps going wrong, proving it with data, and writing it down clearly enough that it gets fixed.
 
-I have a BA (Hons) in Business Management from London South Bank University and I'm studying for an MSc in Global Financial Management at the University of Roehampton. I'm looking for **Business Analyst, Data / MIS Analyst and Operations Analyst** roles in Delhi NCR or anywhere in India.
+For two years I did that as an Associate Analyst at Post Office Ltd in London. I mapped how work really flowed, tracked SLAs and KPIs, and reported to management. My analysis of sales and footfall trends contributed to around 20% growth in travel money sales.
+
+I'm particularly interested in banking and fintech, partly because of my MSc in Global Financial Management (University of Roehampton) and partly because so much of it comes down to process and data. The projects below show the same way of working across banking, sales, healthcare and consumer apps.
+
+**Looking for:** Business Analyst, Data / MIS Analyst or Operations Analyst roles in Delhi NCR or anywhere in India. Immediate joiner.
 
 ### What I work with
 - **Data:** SQL (MySQL), Power BI (DAX, Power Query), Excel
 - **Business analysis:** requirements gathering, BRD, FRD, user stories, As-Is / To-Be process mapping, wireframes, UAT
-- **Banking (BFSI):** digital lending, account opening and KYC, customer churn and deposit risk
+- **Domain exposure:** retail banking and lending, B2B sales, healthcare operations, consumer apps
 - **Tools:** Jira, Axure RP, draw.io, MS Office
 
-### BFSI projects
+### Banking & lending projects
 | Project | What it covers | Tools |
 |---|---|---|
 | [Bank Customer Churn & Deposit Risk Analysis](https://github.com/tushar888jain/Bank-Customer-Churn-Analysis) | 10,000 bank customers: €185.6M deposits lost, churn drivers, risk score and a 579-customer retention call list | SQL, Power BI, Excel |
